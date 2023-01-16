@@ -1,0 +1,5 @@
+{
+	"ip":"World_Of_SMP.aternos.me",
+	"port": "25565",
+	"name": "afkbot"
+}
